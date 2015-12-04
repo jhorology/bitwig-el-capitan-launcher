@@ -1,3 +1,4 @@
+*DEPRECATED* - version 1.3.5 and above offcially support el capitan.
 It's just a simple trick.
 
 #### Bitwig Studio (Default).app/Contents/MacOS/run.sh
